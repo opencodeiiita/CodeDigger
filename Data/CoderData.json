@@ -38,8 +38,12 @@
       "I Guess",
       "https://youtu.be/Qg9LxRHLbAk?si=LAls_Anb8E59cv48"
     ],
-    "Your favourite senior name": ["None"],
-    "College crush": ["x and y"],
+    "Your favourite senior name": [
+      "None"
+    ],
+    "College crush": [
+      "x and y"
+    ],
     "Best youtube video you ever watched": [
       "None"
     ],
@@ -88,8 +92,12 @@
       "Lode lag gaye",
       "https://youtu.be/Uz-sPvopjvY?si=rodjaLoizYr5QN1X"
     ],
-    "Your favourite senior name": ["Shashank"],
-    "College crush": ["None"],
+    "Your favourite senior name": [
+      "Shashank"
+    ],
+    "College crush": [
+      "None"
+    ],
     "Best youtube video you ever watched": [
       "https://www.youtube.com/watch?v=3qHkcs3kG44"
     ],
@@ -111,8 +119,12 @@
       "lut put gya",
       "https://www.youtube.com/watch?v=9Z79T_o4v8c"
     ],
-    "Your favourite senior name": ["Srijan"],
-    "College crush": ["cp"],
+    "Your favourite senior name": [
+      "Srijan"
+    ],
+    "College crush": [
+      "cp"
+    ],
     "Best youtube video you ever watched": [
       "https://youtu.be/JFF2vJaN0Cw?si=wxMJfkHIcYrwR7ZT"
     ],
@@ -121,101 +133,115 @@
     "Atcoder id": "dear_comrade_",
     "Discord username": "spotnewmoon",
     "Instagram": "_deepanshu_soni_"
-
   },
-
   {
-      "Name": "Ashutosh Kumar",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        "Phir Se Udd Chala",
-        "https://www.youtube.com/watch?v=2mWaqsC3U7k"
-      ],
-      "Song that defines your academic situation": [
-        "aashayein",
-        "https://www.youtube.com/watch?v=bmyv0nRkDmc"
-      ],
-      "Your favourite senior name": ["Agrim Sir"],
-      "College crush": ["Pankhuri Mam :)"],
-      "Best youtube video you ever watched": [
-        "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-      ],
-      "Codeforces id": "official_ashu_tosh",
-      "Codechef id": "ashuSolver",
-      "Atcoder id": "ashuSolve",
-      "Discord username": "official_ashu_tosh",
-      "Instagram": "ashutosh_iiita"
-    },
-    {
-      "Name": "Ashish Saraswat",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        "Baat ban gyi",
-        "https://www.youtube.com/watch?v=pWKENhBfdZc"
-      ],
-      "Song that defines your academic situation": [
-        "Anaadi",
-        "https://www.youtube.com/watch?v=UcnIQSufHkc"
-      ],
-      "Your favourite senior name": ["Sparsh Sir"],
-      "College crush": ["none"],
-      "Best youtube video you ever watched": [
-        "https://www.youtube.com/watch?v=933rac-TBfA"
-      ],
-      "Codeforces id": "ashishsaraswat1912",
-      "Codechef id": "asheeesh9",
-      "Atcoder id": "none",
-      "Discord username": "_.asheeesh._",
-      "Instagram": "_.asheeesh._"
-    },
-    {
-      "Name": "Snehal Gupta",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        "All My Love",
-        "https://youtu.be/pSeaHfkd3M8?feature=shared"
-      ],
-      "Song that defines your academic situation": [
-        "All Downhill from here",
-        "https://youtu.be/lK5Sdj08Lco?feature=shared"
-      ],
-      "Your favourite senior name": ["Anshul"],
-      "College crush": ["None"],
-      "Best youtube video you ever watched": [
-        "https://youtu.be/EXb1a-ZXSZA?feature=shared"
-      ],
-      "Codeforces id": "chronicle_07",
-      "Codechef id": "chronicle_01",
-      "Atcoder id": "-",
-      "Discord username": "snehal_67423",
-      "Instagram": "snehal_gupta07"
-    },
-      {
-      "Name": "Samandeep Singh Sidhu",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        "I wonder",
-        "https://youtu.be/MxEjnYdfLXU"
-      ],
-      "Song that defines your academic situation": [
-        "Yeah Naah",
-        "https://youtu.be/i_JPpUiOc2Y"
-      ],
-      "Your favourite senior name": ["Vatsal Sir"],
-      "College crush": ["Placements"],
-      "Best youtube video you ever watched": [
-        "https://youtu.be/5QYNV_nucLE"
-      ],
-      "Codeforces id": "bytebandit0125",
-      "Codechef id": "biggie_077",
-      "Atcoder id": "",
-      "Discord username": "dark_knight_0125",
-      "Instagram": ""
-    },
+    "Name": "Ashutosh Kumar",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "Phir Se Udd Chala",
+      "https://www.youtube.com/watch?v=2mWaqsC3U7k"
+    ],
+    "Song that defines your academic situation": [
+      "aashayein",
+      "https://www.youtube.com/watch?v=bmyv0nRkDmc"
+    ],
+    "Your favourite senior name": [
+      "Agrim Sir"
+    ],
+    "College crush": [
+      "Pankhuri Mam :)"
+    ],
+    "Best youtube video you ever watched": [
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    ],
+    "Codeforces id": "official_ashu_tosh",
+    "Codechef id": "ashuSolver",
+    "Atcoder id": "ashuSolve",
+    "Discord username": "official_ashu_tosh",
+    "Instagram": "ashutosh_iiita"
+  },
+  {
+    "Name": "Ashish Saraswat",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "Baat ban gyi",
+      "https://www.youtube.com/watch?v=pWKENhBfdZc"
+    ],
+    "Song that defines your academic situation": [
+      "Anaadi",
+      "https://www.youtube.com/watch?v=UcnIQSufHkc"
+    ],
+    "Your favourite senior name": [
+      "Sparsh Sir"
+    ],
+    "College crush": [
+      "none"
+    ],
+    "Best youtube video you ever watched": [
+      "https://www.youtube.com/watch?v=933rac-TBfA"
+    ],
+    "Codeforces id": "ashishsaraswat1912",
+    "Codechef id": "asheeesh9",
+    "Atcoder id": "none",
+    "Discord username": "_.asheeesh._",
+    "Instagram": "_.asheeesh._"
+  },
+  {
+    "Name": "Snehal Gupta",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "All My Love",
+      "https://youtu.be/pSeaHfkd3M8?feature=shared"
+    ],
+    "Song that defines your academic situation": [
+      "All Downhill from here",
+      "https://youtu.be/lK5Sdj08Lco?feature=shared"
+    ],
+    "Your favourite senior name": [
+      "Anshul"
+    ],
+    "College crush": [
+      "None"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/EXb1a-ZXSZA?feature=shared"
+    ],
+    "Codeforces id": "chronicle_07",
+    "Codechef id": "chronicle_01",
+    "Atcoder id": "-",
+    "Discord username": "snehal_67423",
+    "Instagram": "snehal_gupta07"
+  },
+  {
+    "Name": "Samandeep Singh Sidhu",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "I wonder",
+      "https://youtu.be/MxEjnYdfLXU"
+    ],
+    "Song that defines your academic situation": [
+      "Yeah Naah",
+      "https://youtu.be/i_JPpUiOc2Y"
+    ],
+    "Your favourite senior name": [
+      "Vatsal Sir"
+    ],
+    "College crush": [
+      "Placements"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/5QYNV_nucLE"
+    ],
+    "Codeforces id": "bytebandit0125",
+    "Codechef id": "biggie_077",
+    "Atcoder id": "",
+    "Discord username": "dark_knight_0125",
+    "Instagram": ""
+  },
   {
     "Name": "Kanav Agrawal",
     "College": "Indian Institute of Information Technology (IIITA) Allahabad",
@@ -242,76 +268,86 @@
     "Atcoder id": "",
     "Discord username": "hgrgamer",
     "Instagram": ""
-   },
-      {
-        "Name": "HEMANT",
-        "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-        "Passout Year": "2027",
-        "Song that defines your relationship status": [
-          "Feeling good ",
-          "https://www.youtube.com/watch?v=Edwsf-8F3sI"
-        ],
-        "Song that defines your academic situation": [
-          "lut put gya",
-          "https://www.youtube.com/watch?v=9Z79T_o4v8c"
-        ],
-        "Your favourite senior name": ["Pranav Bansal"],
-        "College crush": ["koi layak hi nhi h"],
-        "Best youtube video you ever watched": [
-          "https://youtu.be/JFF2vJaN0Cw?si=wxMJfkHIcYrwR7ZT"
-        ],
-        "Codeforces id": "crazyinsane",
-        "Codechef id": "newidforme21",
-        "Atcoder id": "abc678",
-        "Discord username": "abc678_89742",
-        "Instagram": "h_e_m_a_n_t_678"
-
   },
-    {
-      "Name": "Harsh Krishnan",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        "Heart Break Kid",
-        "https://youtu.be/e-XYQjM2RQ8?si=OlBZX_lC4G7NUD1K"
-      ],
-      "Song that defines your academic situation": [
-        "Regrets",
-        "https://youtu.be/lNOtv1mXbQ8?si=bVQH1_GHxlZLpyqs"
-      ],
-      "Your favourite senior name": ["Vatsal Sir"],
-      "College crush": ["9+ CGPA"],
-      "Best youtube video you ever watched": [
-        "https://youtu.be/T94PHkuydcw?si=Mn0Kog19uA0ahNcD"
-      ],
-      "Codechef id": "icode_007",
-      "Atcoder id": "icode_007",
-      "Discord username": "insignia_007",
-      "Instagram": "_.harsh._030"
-    },
-    {
-      "Name": "Vardaan",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        ":(",
-        "nahi ban rhi bandi"
-      ],
-      "Song that defines your academic situation": [
-        ":)",
-        "Better than yours, but downfall is real"
-      ],
-      "Your favourite senior name": ["Rishabh Sir"],
-      "College crush": ["******** karle guess mc"],
-      "Best youtube video you ever watched": [
-        "https://youtu.be/S6I6QxMSOXU?si=BrO2eQWqNp3hM5uB"
-      ],
-      "Codechef id": "vardaanpahwa02",
-      "Atcoder id": "nahi hai",
-      "Discord username": "HeavenlyDemon",
-      "Instagram": "vardaan_02"
-    },
-    
+  {
+    "Name": "HEMANT",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "Feeling good ",
+      "https://www.youtube.com/watch?v=Edwsf-8F3sI"
+    ],
+    "Song that defines your academic situation": [
+      "lut put gya",
+      "https://www.youtube.com/watch?v=9Z79T_o4v8c"
+    ],
+    "Your favourite senior name": [
+      "Pranav Bansal"
+    ],
+    "College crush": [
+      "koi layak hi nhi h"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/JFF2vJaN0Cw?si=wxMJfkHIcYrwR7ZT"
+    ],
+    "Codeforces id": "crazyinsane",
+    "Codechef id": "newidforme21",
+    "Atcoder id": "abc678",
+    "Discord username": "abc678_89742",
+    "Instagram": "h_e_m_a_n_t_678"
+  },
+  {
+    "Name": "Harsh Krishnan",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "Heart Break Kid",
+      "https://youtu.be/e-XYQjM2RQ8?si=OlBZX_lC4G7NUD1K"
+    ],
+    "Song that defines your academic situation": [
+      "Regrets",
+      "https://youtu.be/lNOtv1mXbQ8?si=bVQH1_GHxlZLpyqs"
+    ],
+    "Your favourite senior name": [
+      "Vatsal Sir"
+    ],
+    "College crush": [
+      "9+ CGPA"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/T94PHkuydcw?si=Mn0Kog19uA0ahNcD"
+    ],
+    "Codechef id": "icode_007",
+    "Atcoder id": "icode_007",
+    "Discord username": "insignia_007",
+    "Instagram": "_.harsh._030"
+  },
+  {
+    "Name": "Vardaan",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      ":(",
+      "nahi ban rhi bandi"
+    ],
+    "Song that defines your academic situation": [
+      ":)",
+      "Better than yours, but downfall is real"
+    ],
+    "Your favourite senior name": [
+      "Rishabh Sir"
+    ],
+    "College crush": [
+      "******** karle guess mc"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/S6I6QxMSOXU?si=BrO2eQWqNp3hM5uB"
+    ],
+    "Codechef id": "vardaanpahwa02",
+    "Atcoder id": "nahi hai",
+    "Discord username": "HeavenlyDemon",
+    "Instagram": "vardaan_02"
+  },
   {
     "Name": "Saurabh Dubey",
     "College": "Indian Institute of Information Technology (IIITA) Allahabad",
@@ -324,8 +360,12 @@
       "Without Me",
       "https://youtu.be/YVkUvmDQ3HY?si=Wn6v20F101qPnU-D"
     ],
-    "Your favourite senior name": ["none"],
-    "College crush": ["non-existent"],
+    "Your favourite senior name": [
+      "none"
+    ],
+    "College crush": [
+      "non-existent"
+    ],
     "Best youtube video you ever watched": [
       "https://youtu.be/ZmKy_fnRM_E?si=AjI3h0VGXbyIT3bL"
     ],
@@ -374,8 +414,12 @@
       "God's Plan",
       "https://youtu.be/YVkUvmDQ3HY?si=Wn6v20F101qPnU-D"
     ],
-    "Your favourite senior name": ["none"],
-    "College crush": ["non-existent"],
+    "Your favourite senior name": [
+      "none"
+    ],
+    "College crush": [
+      "non-existent"
+    ],
     "Best youtube video you ever watched": [
       "https://youtu.be/ZmKy_fnRM_E?si=AjI3h0VGXbyIT3bL"
     ],
@@ -424,7 +468,9 @@
       "Ratta Maar",
       "https://youtu.be/psWV9GdEgzo?feature=shared"
     ],
-    "Your favourite senior name": ["Suraj Sir"],
+    "Your favourite senior name": [
+      "Suraj Sir"
+    ],
     "College crush": [
       "None"
     ],
@@ -450,8 +496,12 @@
       "APT.",
       "https://www.youtube.com/watch?v=ekr2nIex040"
     ],
-    "Your favourite senior name": ["Ashish"],
-    "College crush": ["DNE"],
+    "Your favourite senior name": [
+      "Ashish"
+    ],
+    "College crush": [
+      "DNE"
+    ],
     "Best youtube video you ever watched": [
       "https://www.youtube.com/watch?v=0YZzHn0iz8U&t=15s"
     ],
@@ -461,8 +511,8 @@
     "Discord username": "dev-kanishk293",
     "Instagram": "kanishk_jain_293"
   },
-   {
-  "Name": "Dhruv Samdani",
+  {
+    "Name": "Dhruv Samdani",
     "College": "Indian Institute of Information Technology (IIITA) Allahabad",
     "Passout Year": "2027",
     "Song that defines your relationship status": [
@@ -500,8 +550,12 @@
       "Qismat Badal Di",
       "https://www.youtube.com/watch?v=Hp4vbW1ZF0U&ab_channel=T-Series"
     ],
-    "Your favourite senior name": ["Taufique Sir"],
-    "College crush": ["******"],
+    "Your favourite senior name": [
+      "Taufique Sir"
+    ],
+    "College crush": [
+      "******"
+    ],
     "Best youtube video you ever watched": [
       "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
     ],
@@ -512,30 +566,33 @@
     "Instagram": "23_azeem"
   },
   {
-
-      "Name": "Aditya Kishore",
-      "College": "Indian Institute of Information Technology (IIITA) Allahabad",
-      "Passout Year": "2027",
-      "Song that defines your relationship status": [
-        "Kyun Main Jaagoon",
-        "https://www.youtube.com/watch?v=yHqp0KE7U8s"
-      ],
-      "Song that defines your academic situation": [
-        "Ratta Maar",
-        "https://www.youtube.com/watch?v=psWV9GdEgzo"
-      ],
-      "Your favourite senior name": ["Aashish Raghav Sir"],
-      "College crush": ["~_~"],
-      "Best youtube video you ever watched": [
-        "https://youtu.be/UePk8dkoXuc?si=ATqPoTqcsCP9P2N3"
-      ],
-      "Codeforces id": "adityakishore29",
-      "Codechef id": "adityakishore5",
-      "Atcoder id": ";_;",
-      "Discord username": "storm_iiita",
-      "Instagram": "adityakishore29"
-},
-{
+    "Name": "Aditya Kishore",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "Kyun Main Jaagoon",
+      "https://www.youtube.com/watch?v=yHqp0KE7U8s"
+    ],
+    "Song that defines your academic situation": [
+      "Ratta Maar",
+      "https://www.youtube.com/watch?v=psWV9GdEgzo"
+    ],
+    "Your favourite senior name": [
+      "Aashish Raghav Sir"
+    ],
+    "College crush": [
+      "~_~"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/UePk8dkoXuc?si=ATqPoTqcsCP9P2N3"
+    ],
+    "Codeforces id": "adityakishore29",
+    "Codechef id": "adityakishore5",
+    "Atcoder id": ";_;",
+    "Discord username": "storm_iiita",
+    "Instagram": "adityakishore29"
+  },
+  {
     "Name": "Apoorv Mittal",
     "College": "Jaypee Institute of Information Technology, Noida",
     "Passout Year": "2027",
@@ -560,33 +617,59 @@
     "Codechef id": "Apoorv012",
     "Discord username": "apoorvmittal",
     "Instagram": "apooorvmittal"
-
   },
   {
     "Name": "Arghya Shubhshiv",
     "College": "Indian Institute of Information Technology (IIITA) Allahabad",
     "Passout Year": "2028",
     "Song that defines your relationship status": [
-        "Har Kisi Ko Nahi Milta",
-        "https://www.youtube.com/watch?v=PhkFADLMe_M"
+      "Har Kisi Ko Nahi Milta",
+      "https://www.youtube.com/watch?v=PhkFADLMe_M"
     ],
     "Song that defines your academic situation": [
-        "Zindagi Kaisi Hai Paheli",
-        "https://www.youtube.com/watch?v=rQvcxcVlVP8"
+      "Zindagi Kaisi Hai Paheli",
+      "https://www.youtube.com/watch?v=rQvcxcVlVP8"
     ],
     "Your favourite senior name": [
-        "Rachit Sir"
+      "Rachit Sir"
     ],
     "College crush": [
-        "None"
+      "None"
     ],
     "Best youtube video you ever watched": [
-        "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     ],
     "Codeforces id": "arghyeah_s",
     "Codechef id": "arghya_3654",
     "Atcoder id": "arghyeah_s",
     "Discord username": "jugubugudugngngbegbejugubugunom",
     "Instagram": "arghya.shubhshiv.2.71"
+  },
+  {
+    "Name": "Pratham Prajapati",
+    "College": "Indian Institute of Information Technology (IIITA) Allahabad",
+    "Passout Year": "2027",
+    "Song that defines your relationship status": [
+      "Until I Found You",
+      "https://music.youtube.com/watch?v=znvky0Uq8qc&si=6BaYkagdEm_u_A1L"
+    ],
+    "Song that defines your academic situation": [
+      "Pee Loon",
+      "https://music.youtube.com/watch?v=WCTro3qabjE&si=0-fz9qzSOTGs3TOF"
+    ],
+    "Your favourite senior name": [
+      "Aniket Kumar"
+    ],
+    "College crush": [
+      "Madamji"
+    ],
+    "Best youtube video you ever watched": [
+      "https://youtu.be/wGLPsbxheKw?si=1tLKPespprK28IG7"
+    ],
+    "Codeforces id": "navi0408",
+    "Codechef id": "navigam",
+    "Atcoder id": "",
+    "Discord username": "navigam1108",
+    "Instagram": "navigam"
   }
 ]
