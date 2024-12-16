@@ -1,1 +1,6 @@
-
+this code has a logical error. It doesn't consider the possibilies of forming len-length elements by removing 2k,3k,... numbers of elements only k spaced elements
+were considered. 
+Test case where the code fails:
+6 2
+9 2 3 1 1 5
+explanation: here first 2,3 can be removed . Then, 1,1 can be removed. and result is 5. but the code doesnt coonsider 9 and 5 spaced by 4 elements and outputs 3.
