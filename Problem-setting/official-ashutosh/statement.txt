@@ -1,0 +1,17 @@
+PROBLEM NAME : Chocolate Break
+
+Problem Statement :
+A Playboy has a m x n grid chocolate. He want to break the chocolate in the pieces of 1 x 1 grid. But he is little bit innovative so he wants it to be done in minimum steps. He is allowed to do following breaks with the available grids in each step :
+1.      He can break the chocolate horizontally.
+2.      He can break the chocolate vertically.
+Help him to break the chocolate in minimum steps.
+
+INPUT FORMAT:
+The first line of input contains 1 single integer T - the number of test cases.
+The only line of input for each test case contains 2 integers m, n where m is the no. 1 x 1 grids in a row in the grid and n is the no. of 1 x 1 grids in a column in the grid.
+CONSTRAINTS :
+1.      T <= 1e5;
+2.      1 <= (m, n) <= 1e9
+OUTPUT FORMAT: 
+For each test case, output a single integer - the minimum no. of steps required to do so
+
