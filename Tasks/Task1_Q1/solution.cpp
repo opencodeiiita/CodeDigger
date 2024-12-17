@@ -24,6 +24,7 @@ void solve() {
         val[i]=sum;
         sum+=e[i-n];
     }
+    
    
     int q; cin >> q;
     while(q--){
@@ -52,21 +53,28 @@ void solve() {
 
             l--;
             r--;
-            
-            
+           
             int ini = v[(l-1+n)%n] + v[(r+n+1)%n];
-            // cout << ini  << "\n";
-
-            l+=n+1;
-            r+=n-1;
             
-            // cout << l << " " << r << " ";
+
+            l+=n-1;
+
+            r+=n+1;
+            
+            if(l>r){
+                cout << ini + ( val[l] - val[r]) << '\n';
             // cout << '\n';
 
-            cout << ini + ( val[r] - val[l]) << '\n';
-            // cout << '\n';
+            }     
+            else{
+                cout << 0 << '\n';
+            }      
+            
+
+            
 
         }
+        
 
     }
     
