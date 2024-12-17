@@ -1,1 +1,10 @@
+6 3
+1 5 3 4 2 6
 
+Expected Output : 5
+Code Output : 4
+
+The given test case gives wrong output on provided code.
+
+Reason: 
+The code does not cover all possible coverage of range removal. In given code we can remove the subarray [3,4,2] which leads to final array to be [1,5,6] whose median is 5 largest possible, while the given solution does not considers this case, it checks for final array [1,5,3] and [4,2,6] only.
