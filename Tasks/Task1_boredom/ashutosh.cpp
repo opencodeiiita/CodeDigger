@@ -55,10 +55,11 @@ void solve() {
                 if(j >= l && j <= r) continue;
                 int ans2 = 0;
                 if((i < l && j < l) || (i > r && j > r)){
-                    ans2 = pre[j] + a[i] + a[j];
-                    ans2 -= pre[i];
+                    ans2 = pre[j-1] + a[i] + a[j];
+                    if(i > 0) ans2 -= pre[i-1];
                 } else {
-                    ans2 = pre[i] + pre[n-1] - pre[j] + a[i] + a[j];
+                    ans2 = pre[n-1] - pre[j-1] + a[i] + a[j];
+                    if(i > 0) ans2 += pre[i-1];
                 }
                 ans = max(ans, ans2);
                 // cout << i << " " << j << " " << ans << endl;
