@@ -1,0 +1,3 @@
+Here, we need to find the number of objects having speed 0, speed greater than v , and the speed in between. 
+For that, create three  integers counting the number of these three things while traversing the array. Using if else we can check if the number lies in these three\
+segments.
