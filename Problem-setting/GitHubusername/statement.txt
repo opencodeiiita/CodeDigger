@@ -1,0 +1,14 @@
+The planets
+Consider the planet earth revolving around the sun in elliptical orbit having two focii. All the planets move in the same shape around the sun.
+Any object which is thrown towards any massive object can either turn into a circle, a ellipse or a parabola. If the initial velocity of the object is 0, 
+then it will be circular, if its more than a 0 it will be elliptical and else it will be parabolic(if the velcity is very higher than v). Given a series of n objects(and 
+their speeds) thrown towards a planet find the no. of objects whihc will follow circular, elliptical or parabolic path.
+
+INPUT
+firstly input the no. of test cases t
+in every tes case take v and n
+take an array of n number representing velocity
+
+OUTPUT
+print three number: No. of planets with circular, elliptical and parabolic pathway
+                    
