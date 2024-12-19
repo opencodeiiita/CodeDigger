@@ -1,0 +1,15 @@
+ Fix the Bulb
+
+There are n bulbs, numbered from 1 to n. The Bulbs are malfunctioning(OFF initially).Initially at 0th second the bulb x is in ON state. Every second, the Bulb k
+ which is in ON state turns OFF and the Bulbs, k−1
+ (if it exists) and k+1 (if it exists) turns ON.
+
+This process happens for all the Bulbs which are in ON state at the same time. 
+Your task is to determine the least second at which maximum number of Bulbs are turned ON.
+
+Input
+The first line contains the number of test cases t (1≤t≤10000)
+The one and only line of each test case contains two integers n and x (1≤n≤10^18;1≤x≤n)
+ — the number of Bulbs and the Bulb which is ON initially.
+Output
+output a single integer: the least second at which maximum number of Bulbs are turned ON.

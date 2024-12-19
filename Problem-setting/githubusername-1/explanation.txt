@@ -1,0 +1,5 @@
+Solution:
+Every Second the count of ON bulbs increses by 1.
+If either of the first or last bulb turns ON then it takes 2 seconds for the count to increase.
+The maximum number of bulbs which will be ON is equal to ceil(n/2).
+So the final answer can be calculated as shown in solution.cpp.
