@@ -1,0 +1,1 @@
+Given n which if valid is a base 8 number(if it has 8 or 9 then output -1). The count of numbers till n which are in base 8 is the required answer. This will be the decimal equivalent of n.

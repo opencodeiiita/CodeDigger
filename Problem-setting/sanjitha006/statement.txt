@@ -1,0 +1,7 @@
+Title: Froggy and the Cursed Stones
+Problem: Froggy loves hopping in a straight path containing stones numbered with whole numbers starting from 0.
+He is initially at 0.He wishes to reach a target stone indexed n. Some stones are cursed and must be avoided.
+A stone is cursed if its index contains 8 or 9. Froggy can’t skip any valid stone, that is, it must have hopped onto all valid stones encountered until reaching the target.
+You must determine how many hops it has done to reach the target input n , given x. If n is a cursed stone output -1.
+Input: n 
+Output: a single integer
