@@ -1,0 +1,10 @@
+Explanation:
+
+https://drive.google.com/file/d/11H9PEmoWNaFNNrrQ6WS2Oof5cvMt1CeR/view?usp=sharing
+
+First we calculate the difference between the coordinates of starting point and ending point.
+a= X2-X1 and b=Y2-Y1
+
+One can observe that if a is greater than b or any of a or b is negative then it is impossible to reach the ending point.
+If a is equal to b then one can directly move diagonally to reach the ending point in minimum time.
+If a is less than b then we first move diagonally then move up to reach the ending point in minimum time.
