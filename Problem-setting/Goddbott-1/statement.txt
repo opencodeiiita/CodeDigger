@@ -1,0 +1,17 @@
+You are given a grid of width m and length n. The grid is made up of m*n boxes of dimensions 1*1. You are given a starting point (x1,y1) and an ending point (x2,y2).
+You are only allowed to move 1 unit diagonally and 1 unit up. Every move by one unit takes 1 second. Find the minimum time it would take to reach the destination. If it is not possible then output -1.The problem contains T test cases.
+
+Input Format: 
+The first line contains an integer T denoting the number of test cases.
+In each test case
+The first line contains integers m,n denoting the width and length of the grid.
+The second line contains integers x1,y1 and x2,y2 denoting the starting and ending points.
+
+Output:
+Print the minimum time taken to reach the destination in a single line. If not possible then print -1.3
+
+Constraints:
+1<= T <= 10^5
+1<= m,n <= 10^9
+1<= x1,x2 <= m
+1<= y1,y2 <= n
