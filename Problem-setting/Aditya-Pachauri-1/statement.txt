@@ -3,6 +3,8 @@ You need to calculate the minimum time taken by your senior to reach to the room
 Consider, each floor of height 10 meters and distance between each room to be 5 meters.
 Conider,the speed of lift to be 5m/s and the speed of man to be 1m/s.
 You need to also print the two lift numbers which he will chose for his journey.(One initial picked and other for changing to a different lift)
+Numbering of lift and room will start from left in clockwise fashion.
+Rooms from 1 to 40 and lifts from 1 to 4.
 You will be having the senior's room number and floor number.
 Input:
 t->number of testcases
