@@ -1,0 +1,28 @@
+Your favourite senior enters Hotel Amiron which is square in shape(cross-section) i.e. it has four corridors containing 10 rooms each with equal spacing. The Hotel has four lifts each at corner of the hotel ,i.e. at corner points of square cross-section.
+You need to calculate the minimum time taken by your senior to reach to the room assigned, keeping in mind the condition that this geek will change his lift once in between the journey after getting in a lift(for unexplainable reasons).
+Consider, each floor of height 10 meters and distance between each room to be 5 meters.
+Conider,the speed of lift to be 5m/s and the speed of man to be 1m/s.
+You need to also print the two lift numbers which he will chose for his journey.(One initial picked and other for changing to a different lift)
+Numbering of lift and room will start from left in clockwise fashion.
+Rooms from 1 to 40 and lifts from 1 to 4.
+You will be having the senior's room number and floor number.
+Input:
+t->number of testcases
+floor->floor of room assigned
+room->room number
+Output:
+lift1->one of two lifts chosen
+lift2->two of two lifts chosen
+time->minimum time in seconds
+Test Case 0:
+Input:
+2
+5 4
+5 7
+Output:
+1 2 270
+1 2 270
+Constraints:
+1<=t<=10^5
+0<floor<=10
+1<=room<=40
