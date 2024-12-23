@@ -1,0 +1,17 @@
+First we chose the two lifts which depends on in which corridor/block the room lies in, like in Test Case-0
+the room number was 4 in first test case so the room was in first corridor, so the two best suited lifts to 
+use were 1 and 2 to minimize the time. 
+Calculations are Easy:
+for total time in lift, it is number_of_floors_travelled(floor_number - 1) * length_of_each_floor(10) * speed_of_lift(5).
+for total time on foot, it is,
+firstly,the interchange period time, which is, no_of_rooms(10) * speed_of_man(1) * distance_bet_rooms(5)
+secondly,the period from exiting lift to the room, which is, no_of_rooms_travelled(travel from  that lift from which the room is closest) * speed * distance_bet_rooms
+
+So, the decision of which lift to chose in start depends on the proximity of room to the lifts chosen.
+We chose the lift in start which is not close the room, so that on interchanging the lift, the senior is on the closest lift.
+And we can get the number of rooms between the lift and room by r=room_no%10, which itself has two conditions,
+firstly, if r lies from 1 to 5 than simply we can use it directly.
+secondly , if  is from 6 to 9 or 0 than we can get number of rooms by using formula: no_of_rooms = 10 - r + 1   , where 10 is total rooms in corridor.
+
+
+Thanks!
