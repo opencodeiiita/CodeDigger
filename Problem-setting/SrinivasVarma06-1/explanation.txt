@@ -1,0 +1,11 @@
+We are given n chakra levels and a range difference k.
+For each possible starting chakra level (low), calculate the maximum allowed chakra level (high = low + k).
+
+For each chakra in the list, calculate the number of operations needed to bring it into the range [low, high].
+This is the absolute difference between the chakra level and the closest boundary (either low or high) and
+then iterate over all possible ranges.
+
+Try every possible valid range [low, high] (from the minimum chakra value to maxChakra - k), and for each range,
+calculate the total number of operations needed and then find minimal operations.
+
+The answer is the minimum total operations across all valid ranges.

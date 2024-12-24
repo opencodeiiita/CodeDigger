@@ -1,0 +1,23 @@
+Problem's Name: "Chakra Balancing" 
+Context: The Hidden Leaf Village is preparing for the Chūnin Exams. 
+Each ninja must balance their chakra reserves to unlock a special technique. 
+You, as a skilled strategist, are tasked with ensuring the chakra levels of all ninjas 
+in the squad meet specific criteria.
+
+Problem Statement: You are given an array of integers representing the chakra levels of N ninjas in the squad. 
+To maintain balance:
+    1. The difference between the highest and lowest chakra levels in the squad should not exceed k.
+    2. You can increase or decrease the chakra level of any ninja by 1, but each operation consumes 1 unit of chakra from a shared reserve.
+
+Your task is to determine the minimum number of operations needed to balance the squad or determine 
+if it is impossible.
+
+Input: 
+The first line contains two integers N and k
+N: The number of ninjas.
+k: The maximum allowed difference between chakra levels.
+The second line contains N integers: the initial chakra levels of the ninjas.
+
+Output:
+A single integer: the minimum number of operations needed to balance the chakra levels.
+If it is impossible to balance the squad, return -1.
