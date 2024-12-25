@@ -19,26 +19,18 @@ int countWays(int N, int M, vector<pair<int, int>> &pairs) {
 
     // Iterate over all masks
     for (int mask = 0; mask < maxMask; ++mask) {
-        if (dp[mask] == 0) continue; // No ways to pair this subset
-        // Find the first unpaired person in the list
-        int firstUnpaired = -1;
+        if (dp[mask] == 0) continue;
         for (int i = 0; i < 2 * N; ++i) {
-            if (!(mask & (1 << i))) {
-                firstUnpaired = i;
-                break;
+            if (mask & (1 << i)) continue; // i is already paired
+            for (int j = i + 1; j < 2 * N; ++j) {
+                if ((mask & (1 << j)) || !adj[i][j]) continue;
+                int newMask = mask | (1 << i) | (1 << j);
+                dp[newMask] = (dp[newMask] + dp[mask]) % MOD;
             }
-        }
-        if (firstUnpaired == -1) continue; // All paired, skip
-
-        // Pair the first unpaired person with any adjacent unpaired person
-        for (int j = firstUnpaired + 1; j < 2 * N; ++j) {
-            if ((mask & (1 << j)) || !adj[firstUnpaired][j]) continue;
-            int newMask = mask | (1 << firstUnpaired) | (1 << j);
-            dp[newMask] = (dp[newMask] + dp[mask]) % MOD;
         }
     }
 
-    return dp[maxMask - 1]; // Result is in the full mask
+    return dp[maxMask - 1]; // Return result for full pairing
 }
 
 int main() {
