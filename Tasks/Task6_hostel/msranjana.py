@@ -13,8 +13,7 @@ def find_optimal_position(n, positions, times):
         if max_travel_time(mid1, positions, times) < max_travel_time(mid2, positions, times):
             right = mid2
         else:
-            left = mid1
-            
+            left = mid1        
     return (left + right) / 2
 
 # Input taken
