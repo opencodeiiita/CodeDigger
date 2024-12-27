@@ -1,0 +1,26 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define int long long
+#define all(x) x.begin(),x.end()
+const int mod=1e9+7;
+signed main()
+{
+int n,k;
+cin >> n >> k;
+vector<int> arr(n+1);
+  while(k--){
+    int a,b;
+    cin >> a >> b;
+    a--;
+    arr[a]++;
+    arr[b]--;
+  }
+  vector<int> ans;
+  int temp=0;
+  for(int i=0;i<n;i++){
+      temp+=arr[i];
+      ans.push_back(temp);
+  }
+  sort(all(ans));
+   cout << ans[n/2];
+}
