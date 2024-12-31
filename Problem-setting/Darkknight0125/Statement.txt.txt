@@ -1,0 +1,24 @@
+Number of good subsequences
+
+Arun and Kinshuk are roommates and are demanding a Party from Saman, but Saman being the miser person he is, does not want to give a Party.
+He gives them a sequence of numbers, and says the budget of the party is the number of good subsequences in it.
+
+A subsequence is good if it satisfies 2 conditions:
+1. All elements are unique.
+2. If A is the minimum number and B is the maximum number in the subsequence, then all numbers [A....B] must also be there in the subsequence.
+Example - (4,1,2,5,3) is a good subsequence while (2,2,1) and (3, 7) are not.
+
+Help Arun and Kinshuk to party.
+
+Input:
+First line has N, the length of array.
+Next line has N numbers in them.
+
+Output:
+Return the number of good subsequences. Answer may be large so return module 1e9 + 7.
+
+Constraints:
+1 <= N <= 1e5
+1 <= Number <= 1e5
+=> All elements are unique (Easy version)
+=> There may be duplicate elements (Hard version)
