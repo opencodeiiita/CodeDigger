@@ -1,0 +1,36 @@
+                                                      CAKEWALK PROBLEM
+
+Uttu hates discrimination. So he decided to end discrimination in this deceptive world.
+To do this he started with the discrimination with the alphabets.
+He wonders, “Why should always A be lexicographically before B ?”
+So he comes up with a new string which is a permutation of alphabets where
+if index of c1 < index of c2, c1 is lexicographically smaller than c2.
+ 
+Now you are given a set of some words and Uttu asks you to sort them according to the new rule of comparing alphabets lexicographically.
+
+Since the world suffers with the social evil Discrimination, you need to save it by sorting the words.
+
+INPUT FORMAT
+First line contain a string of size 26
+Next line contain a single integer N
+Next N lines contain a single string each.
+
+Output Format
+Print the set of words in new lines each following the new  lexicographic order.
+
+Test Case 1:
+
+INPUT
+bacdefghijklmnopqrstuvwxzy
+4
+abx
+bzz
+bzy
+caa
+
+OUTPUT
+bzz
+bzy
+abx
+caa
+
