@@ -1,0 +1,34 @@
+Easy Version =>
+
+We hear subsequence and it means the order has to be preserved, but if we examine the question closely,
+Then (4, 1, 2, 5, 3) is a good subsequence, now if we sort the array, we might get (1, 2, 3, 4, 5), which can be transformed back to original.
+Therefore, though it subsequences, but we can sort the array.
+
+As all elements are unique and sorted, we just have to store the length of increasing subarray so far.
+If the length of consecutive increasing subarray till an element is L, then the number of good subsequences ending at that element = L.
+
+Example- 1, 2, 3
+Let element = 3, length of consecutive increasing subarray = 3, 
+Therefore good subsequences ending at 3 are 3.
+(1, 2, 3), (2, 3), (3).
+
+Hard Version =>
+
+Basic Principle:
+Elements =  A, B, C 
+Frequency = a, b, c
+Number of distinct (A, B, C) = a * b * C
+
+First we will sort and store the Frequency of all elements.
+
+Now suppose we have the count of distinct subsequences ending with Element X = x,
+and the next consecutive element = Y (Freq = y),
+then number of distinct subsequences ending with Element Y = (x * y) + y
+(x * y) : Adding element Y at the end of all subsequences ending at element X.
+(y) : Subsequences having only element Y.
+
+Example- 1, 1, 2, 2, 3
+Ending at 1 = 2,
+Ending at 2 = (2 * 2) + 2 = 6
+Ending at 3 = (6 * 1) + 1 = 7
+Total = 15
