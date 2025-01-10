@@ -1,4 +1,3 @@
-Here's the problem statement in plain text for easy copy-pasting:
 
 ---
 
